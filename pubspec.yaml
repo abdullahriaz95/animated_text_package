@@ -1,8 +1,7 @@
 name: animated_text
 description: Make your text appear with an animation
 version: 0.0.1
-author: 'Abdullah Riaz'
-homepage: 'https://github.com/abdullahriaz95'
+homepage: 'https://github.com/abdullahriaz95/animated_text_package'
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
