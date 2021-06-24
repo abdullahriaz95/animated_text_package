@@ -12,7 +12,7 @@ To use this package, add a dependency to your `pubspec.yaml` as:
     dev_dependencies:  
       flutter_test:  
         sdk: flutter
-      animated_text: ^0.0.1
+      animate_my_text: ^0.0.2
 
 
 ## How to Use
